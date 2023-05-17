@@ -1,4 +1,3 @@
-# :construction: README customizado em construção ! :construction:
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
@@ -39,7 +38,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 ## Sobre o Projeto
 Neste projeto foi responsável por implementar um programa que simula um algoritmo de indexação de documentos similar ao do Google. Seu programa deverá ser capaz de identificar ocorrências de termos em arquivos TXT.
 
-**Para isso, foi desenvolvido deverá ter dois módulos:**
+**Para isso, foi desenvolvido em dois módulos:**
 - Módulo de gerenciamento de arquivos que permite anexar arquivos de texto (formato TXT) e;
 - Módulo de buscas que permite operar funções de busca sobre os arquivos anexados.
 
